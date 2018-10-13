@@ -1,6 +1,6 @@
 /* Bootstrap Styles */
 body {
-  padding-top: 65px;
+  padding-top: 80px;
 }
 
 .card {
@@ -8,6 +8,10 @@ body {
 }
 
 /* Custom Styles */
+a small {
+  display: block;
+}
+
 .list-card-block {
   display: flex;
   justify-content: space-around;
