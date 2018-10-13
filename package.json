@@ -1,0 +1,21 @@
+{
+  "name": "ffhs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pink-dog-software/ffhs.git"
+  },
+  "author": "pink dog software",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pink-dog-software/ffhs/issues"
+  },
+  "homepage": "https://github.com/pink-dog-software/ffhs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
+}

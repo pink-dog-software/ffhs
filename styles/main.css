@@ -1,0 +1,23 @@
+/* Bootstrap Styles */
+body {
+  padding-top: 65px;
+}
+
+.card {
+  margin-top: 16px;
+}
+
+/* Custom Styles */
+.list-card-block {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.list-card-inline {
+  display: inline-grid;
+}
+
+.list-card-inline div:nth-of-type(2) {
+  margin-top: 8px;
+}
